@@ -1,3 +1,32 @@
+fantomtestnet:
+  network: fantomtestnet
+  Vault:
+    address: "0xA642F48D9A4Bb071Ab62D79bC09094fb5a373Ef7"
+    startBlock: 15062080
+  WeightedPoolV3Factory:
+    address: "0x6B2816c12f6c2e7a361E9dA3963B4BDc3203b567"
+    startBlock: 15062262
+  ComposableStablePoolV3Factory:
+    address: "0x6FD80882fD31a086F71a9602De79e3957AEE0455"
+    startBlock: 15062276
+  TempLiquidityBootstrappingPoolFactory:
+    address: "0x614FcD283faE979BFd77a2b1159e7AF0F650573C"
+    startBlock: 15130567
+  AaveLinearPoolV5Factory:
+    address: "0x0000000000000000000000000000000000000000"
+    startBlock: 15062080
+  ERC4626LinearPoolV4Factory:
+    address: "0x0000000000000000000000000000000000000000"
+    startBlock: 15062080
+  GearboxLinearPoolV2Factory:
+    address: "0x0000000000000000000000000000000000000000"
+    startBlock: 15062080
+  YearnLinearPoolV2Factory:
+    address: "0x0000000000000000000000000000000000000000"
+    startBlock: 15062080
+  ManagedPoolV2Factory:
+    address: "0x0000000000000000000000000000000000000000"
+    startBlock: 15062080
 mainnet:
   network: mainnet
   graft:
