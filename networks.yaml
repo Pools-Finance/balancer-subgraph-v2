@@ -27,6 +27,20 @@ fantomtestnet:
   ManagedPoolV2Factory:
     address: "0x0000000000000000000000000000000000000000"
     startBlock: 15062080
+alphashimmer:
+  network: alphashimmer
+  Vault:
+    address: "0xC8DAf8c5346bEBb5c848835291594164dC08E65f"
+    startBlock: 1682572
+  WeightedPoolV3Factory:
+    address: "0x2E0bA3441849C067a2354268358c3681b6C25b53"
+    startBlock: 1682810
+  ComposableStablePoolV3Factory:
+    address: "0xF33AA6CE533cDb95AFE097CC600041B9a5BAec8C"
+    startBlock: 1682887
+  TempLiquidityBootstrappingPoolFactory:
+    address: "0xf7A27aa63f2063D9d4A8aDba960D90bE24abC19a"
+    startBlock: 1682993
 mainnet:
   network: mainnet
   graft:
