@@ -1,6 +1,8 @@
 {
-  "name": "balancer",
-  "version": "0.1.0",
+  "name": "pools-core-subgraph",
+  "description": "Pools Core Subgraph Repo. Swaps, pools, prices, statistis data. Forked from `balancer-subgraph-v2`.",
+  "version": "1.0.0",
+  "author": "Nakama",
   "scripts": {
     "codegen": "yarn generate-manifests && graph codegen --output-dir src/types/",
     "build": "graph build",
